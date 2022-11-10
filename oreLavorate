@@ -1,4 +1,17 @@
 Uso: inserire una nuova riga ogni volta che si specificano le ore lavorate ad un determinato task nel seguente formato:
 <nome> - <documento> - <task> - <ore>
 
+Ore lavorate fino ad ora (ad esclusione di quelle per la consegna del d2)
+Daniele: 38,25
+Ivan: 34,25
+Francesco: 29,00
+
+Reminder: Segare le proprie per la consegna del d2
+
+
+***
+
+Ore lavorate:
+Daniele - d2 - consegna - 6
+
 
