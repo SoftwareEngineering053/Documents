@@ -1,1 +1,4 @@
+Uso: inserire una nuova riga ogni volta che si specificano le ore lavorate ad un determinato task nel seguente formato:
+<nome> - <documento> - <task> - <ore>
+
 
